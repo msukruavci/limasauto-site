@@ -1,17 +1,15 @@
 LimasAuto (web demo)
-commit: 37f6dd9
-tarih: 2026-11-13T10:52Z
+commit: 032ba7f
+tarih: 2026-11-13T11:12Z
 
 Son değişiklikler:
+- feat(web): ustalık simgeleri ve dört birim duruşu oyunda (PR #13.79)
+- docs: yayın durumu listesi
+- docs: demo yayını kaydı ve canlı 409 bulgusu
+- docs: e2e turunun bulduğu kusurların kaydı (PR #13.78)
 - fix(web): palet tutamağının dokunma alanı mod şeridini yutuyordu (PR #13.78)
 - fix(web): bilgi kartı yatayda yan panel; savaş sayacı titremiyor; e2e ölçüleri kameradan bağımsız (PR #13.78)
 - docs: kale, sur ve saha çizimleri kaydı (PR #13.76, #13.77)
 - feat(web): kale çizimleri — haritada il merkezleri kale olarak çiziliyor (PR #13.77)
 - feat(web): boyanmış savaş sahaları ve sur çizimi oyunda (PR #13.76)
 - fix(web): haritada parmakla dokunma çalışmıyordu; kilitli ilde sefer düğmesi yok; başlık oyunun diline geçti (PR #13.75)
-- feat(web): harita kamerası — yakınlaştır, kaydır, ile dokun; bölge kartı oyunun diline geçti (PR #13.75)
-- feat(web): savaş sahası çizimden — yol profili resimden çıkıyor, harita eklemek tek adım (PR #13.74)
-- fix(web): savaş yolu sınıf adı sefer listesiyle çakışıyordu (PR #13.73)
-- feat(sim-core,web): kale savunması — mevzi ve kışla; tepeden bakış, kıvrımlı patika (PR #13.72, #13.73)
-- docs: ustalık ve kaos kayıtları; ilerleme tabloları (PR #13.70, #13.71)
-- feat(web): ustalıklar ordu sekmesinde görünüyor; M-1 simge isteği (PR #13.71)
