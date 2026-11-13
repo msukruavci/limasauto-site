@@ -1,0 +1,1 @@
+import{m as e}from"./index-Cnbs53Rf.js";var t=class extends e{async show(e){}async hide(e){}};export{t as SplashScreenWeb};

@@ -1,15 +1,15 @@
 LimasAuto (web demo)
-commit: cc213c6
-tarih: 2026-11-13T11:27Z
+commit: b8644fd
+tarih: 2026-11-13T21:11Z
 
 Son değişiklikler:
-- perf(web): atlas kaynakları public dışına — paket 62 MB'tan 17 MB'a (PR #13.81)
-- fix(web): telefon ekranı arayüz taraması — beş kusur (PR #13.80)
-- docs: denge turu ve demo güncel
-- feat(web): ustalık simgeleri ve dört birim duruşu oyunda (PR #13.79)
-- docs: yayın durumu listesi
-- docs: demo yayını kaydı ve canlı 409 bulgusu
-- docs: e2e turunun bulduğu kusurların kaydı (PR #13.78)
-- fix(web): palet tutamağının dokunma alanı mod şeridini yutuyordu (PR #13.78)
-- fix(web): bilgi kartı yatayda yan panel; savaş sayacı titremiyor; e2e ölçüleri kameradan bağımsız (PR #13.78)
-- docs: kale, sur ve saha çizimleri kaydı (PR #13.76, #13.77)
+- feat(web): düğme simgeleri yeniden çizildi; mağaza malzemeleri yenilendi (PR #13.93, #13.94)
+- fix(web): savaş kamerası yakınlaşmıyor, yalnız kayıyor; e2e GPU kipi Chromium'a (PR #13.91, #13.92)
+- feat(web): gelişim ağacı adım adım açılıyor; pano ve pirinç hatlar (PR #13.89, #13.90)
+- feat(web): gelişim ağacı temaya uydu — pano zemini, akan hatlar, sabit oklar (PR #13.88)
+- fix(e2e): hücre odaklama bilgi kartının yan panel hâlini de hesaba katıyor (PR #13.87)
+- feat(web): sandık ve vuruş çizimleri oyunda; ağacın okları dirsekli (PR #13.85, #13.86)
+- feat(store): yeni mağaza ikonu — yanan fabrikalar ve Kızıl Gözler (PR #13.84)
+- fix(web): favicon eklendi; e2e GPU kipi (E2E_GPU=1) (PR #13.83)
+- chore: e2e makineyi yormasın — yarım çekirdek, düşük öncelik (PR #13.83)
+- fix(web): öğretici hedefleri telefonda okunur büyüklükte (PR #13.82)
