@@ -1,8 +1,9 @@
 LimasAuto (web demo)
-commit: b8644fd
-tarih: 2026-11-13T21:11Z
+commit: ab8d989
+tarih: 2026-11-13T21:19Z
 
 Son değişiklikler:
+- fix(web): yarışma skoru kart yayımlanmadan yazılmıyor — canlıdaki 409 kapandı (PR #13.95)
 - feat(web): düğme simgeleri yeniden çizildi; mağaza malzemeleri yenilendi (PR #13.93, #13.94)
 - fix(web): savaş kamerası yakınlaşmıyor, yalnız kayıyor; e2e GPU kipi Chromium'a (PR #13.91, #13.92)
 - feat(web): gelişim ağacı adım adım açılıyor; pano ve pirinç hatlar (PR #13.89, #13.90)
@@ -12,4 +13,3 @@ Son değişiklikler:
 - feat(store): yeni mağaza ikonu — yanan fabrikalar ve Kızıl Gözler (PR #13.84)
 - fix(web): favicon eklendi; e2e GPU kipi (E2E_GPU=1) (PR #13.83)
 - chore: e2e makineyi yormasın — yarım çekirdek, düşük öncelik (PR #13.83)
-- fix(web): öğretici hedefleri telefonda okunur büyüklükte (PR #13.82)
