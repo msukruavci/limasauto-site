@@ -1,15 +1,15 @@
 LimasAuto (web demo)
-commit: ab8d989
-tarih: 2026-11-13T21:19Z
+commit: 7d21842
+tarih: 2026-11-14T10:32Z
 
 Son değişiklikler:
-- fix(web): yarışma skoru kart yayımlanmadan yazılmıyor — canlıdaki 409 kapandı (PR #13.95)
-- feat(web): düğme simgeleri yeniden çizildi; mağaza malzemeleri yenilendi (PR #13.93, #13.94)
-- fix(web): savaş kamerası yakınlaşmıyor, yalnız kayıyor; e2e GPU kipi Chromium'a (PR #13.91, #13.92)
-- feat(web): gelişim ağacı adım adım açılıyor; pano ve pirinç hatlar (PR #13.89, #13.90)
-- feat(web): gelişim ağacı temaya uydu — pano zemini, akan hatlar, sabit oklar (PR #13.88)
-- fix(e2e): hücre odaklama bilgi kartının yan panel hâlini de hesaba katıyor (PR #13.87)
-- feat(web): sandık ve vuruş çizimleri oyunda; ağacın okları dirsekli (PR #13.85, #13.86)
-- feat(store): yeni mağaza ikonu — yanan fabrikalar ve Kızıl Gözler (PR #13.84)
-- fix(web): favicon eklendi; e2e GPU kipi (E2E_GPU=1) (PR #13.83)
-- chore: e2e makineyi yormasın — yarım çekirdek, düşük öncelik (PR #13.83)
+- perf(web): yazı tipleri yalnız latin ve latin-ek dilimleriyle iniyor (PR #13.109)
+- fix(web): yetenek düğmesinin erişilebilir adı görünen yazıyla başlıyor; diyarda şehrin yüzü (PR #13.108)
+- feat(web): duvar çıktı, okçu kulesi/havan/tesla geldi; kaideye dokunup bina seçiliyor (PR #13.107)
+- fix(web): yapı kaidenin üstüne oturuyor; binanın canı değil süresi var (PR #13.106)
+- feat(web): savaş arenası sabit, yol çizgisi onarıldı, yapı kaideleri her savaşta; yetenek ipuçları ve efekt süreleri (PR #13.103, #13.104, #13.105)
+- fix(web): savaş dünyası kameradan ayrıldı, adım döngüsü, düşman safı kesiyor; harita etiketleri ve bölge kartı (PR #13.101, #13.102)
+- feat(web): gelişim ağacı petek düzenine geçti; sembol düğüm, sağda açıklama (PR #13.99, #13.100)
+- feat(web): açılış video kipi ve çekim listesi (PR #13.98)
+- feat(web): portre avatarlar; şehirler defteri ve fetihle açılan atölye yuvaları (PR #13.96, #13.97)
+- docs: demo yayını canlıda doğrulandı — 409 kalmadı (PR #13.95)
