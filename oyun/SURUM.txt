@@ -1,8 +1,10 @@
 LimasAuto (web demo)
-commit: 2b368c0
-tarih: 2026-11-15T15:55Z
+commit: 6ee118b
+tarih: 2026-11-15T16:15Z
 
 Son değişiklikler:
+- feat(web): öğreticide müzik susuyor, açılış künyeye kadar atlanamıyor (PR #13.118)
+- docs: web demosu yeni açılışla yayınlandı (PR #13.117)
 - fix(web): açılış altyazısı seslendirmeyle aynı çizelgeye bağlandı (PR #13.117)
 - feat(web): açılış videolu, seslendirmeli ve müzikli; kapanış kolajı ve künye (PR #13.117)
 - feat(web): açılışın soru işaretleri hikâye aktıkça cevaplanıyor (PR #13.116)
@@ -11,5 +13,3 @@ Son değişiklikler:
 - fix(web): yatay telefonda Mühürle düğmesi paletin altında kalıyordu (PR #13.111, #13.112)
 - feat(web): okçu kulesi, havan ve tesla çizimleri oyunda (B-3); yapılar kendi oranında (PR #13.110)
 - perf(web): yazı tipleri yalnız latin ve latin-ek dilimleriyle iniyor (PR #13.109)
-- fix(web): yetenek düğmesinin erişilebilir adı görünen yazıyla başlıyor; diyarda şehrin yüzü (PR #13.108)
-- feat(web): duvar çıktı, okçu kulesi/havan/tesla geldi; kaideye dokunup bina seçiliyor (PR #13.107)
