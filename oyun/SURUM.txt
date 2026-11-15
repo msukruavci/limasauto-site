@@ -1,15 +1,15 @@
 LimasAuto (web demo)
-commit: 7d21842
-tarih: 2026-11-14T10:32Z
+commit: 2b368c0
+tarih: 2026-11-15T15:55Z
 
 Son değişiklikler:
+- fix(web): açılış altyazısı seslendirmeyle aynı çizelgeye bağlandı (PR #13.117)
+- feat(web): açılış videolu, seslendirmeli ve müzikli; kapanış kolajı ve künye (PR #13.117)
+- feat(web): açılışın soru işaretleri hikâye aktıkça cevaplanıyor (PR #13.116)
+- feat(web): sandık töreni tam ekran, sandık patlıyor, kartlar tek tek açılıyor (PR #13.115)
+- feat(core): atölye tavanı yerin büyüklüğüne bağlandı, fiyat fabrikaya göre tırmanıyor (PR #13.113, #13.114)
+- fix(web): yatay telefonda Mühürle düğmesi paletin altında kalıyordu (PR #13.111, #13.112)
+- feat(web): okçu kulesi, havan ve tesla çizimleri oyunda (B-3); yapılar kendi oranında (PR #13.110)
 - perf(web): yazı tipleri yalnız latin ve latin-ek dilimleriyle iniyor (PR #13.109)
 - fix(web): yetenek düğmesinin erişilebilir adı görünen yazıyla başlıyor; diyarda şehrin yüzü (PR #13.108)
 - feat(web): duvar çıktı, okçu kulesi/havan/tesla geldi; kaideye dokunup bina seçiliyor (PR #13.107)
-- fix(web): yapı kaidenin üstüne oturuyor; binanın canı değil süresi var (PR #13.106)
-- feat(web): savaş arenası sabit, yol çizgisi onarıldı, yapı kaideleri her savaşta; yetenek ipuçları ve efekt süreleri (PR #13.103, #13.104, #13.105)
-- fix(web): savaş dünyası kameradan ayrıldı, adım döngüsü, düşman safı kesiyor; harita etiketleri ve bölge kartı (PR #13.101, #13.102)
-- feat(web): gelişim ağacı petek düzenine geçti; sembol düğüm, sağda açıklama (PR #13.99, #13.100)
-- feat(web): açılış video kipi ve çekim listesi (PR #13.98)
-- feat(web): portre avatarlar; şehirler defteri ve fetihle açılan atölye yuvaları (PR #13.96, #13.97)
-- docs: demo yayını canlıda doğrulandı — 409 kalmadı (PR #13.95)
