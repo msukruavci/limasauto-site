@@ -1,1 +1,0 @@
-import{h as e}from"./index-Cl_FsAp5.js";var t=class extends e{async show(e){}async hide(e){}};export{t as SplashScreenWeb};

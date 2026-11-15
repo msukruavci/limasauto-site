@@ -1,8 +1,11 @@
 LimasAuto (web demo)
-commit: 6ee118b
-tarih: 2026-11-15T16:15Z
+commit: dd977af
+tarih: 2026-11-15T17:58Z
 
 Son değişiklikler:
+- fix(web): kilitten önceki müzik seçimi yutulmuyor, telsiz sırası kısaldı; e2e turu düzeltmeleri (PR #13.120)
+- feat(war): kaideler sahanın çiziminden, hediye iki yapı, yuva seçimi ve kabartmalı harita (PR #13.119)
+- docs: demo #13.118 ile yeniden yayınlandı
 - feat(web): öğreticide müzik susuyor, açılış künyeye kadar atlanamıyor (PR #13.118)
 - docs: web demosu yeni açılışla yayınlandı (PR #13.117)
 - fix(web): açılış altyazısı seslendirmeyle aynı çizelgeye bağlandı (PR #13.117)
@@ -10,6 +13,3 @@ Son değişiklikler:
 - feat(web): açılışın soru işaretleri hikâye aktıkça cevaplanıyor (PR #13.116)
 - feat(web): sandık töreni tam ekran, sandık patlıyor, kartlar tek tek açılıyor (PR #13.115)
 - feat(core): atölye tavanı yerin büyüklüğüne bağlandı, fiyat fabrikaya göre tırmanıyor (PR #13.113, #13.114)
-- fix(web): yatay telefonda Mühürle düğmesi paletin altında kalıyordu (PR #13.111, #13.112)
-- feat(web): okçu kulesi, havan ve tesla çizimleri oyunda (B-3); yapılar kendi oranında (PR #13.110)
-- perf(web): yazı tipleri yalnız latin ve latin-ek dilimleriyle iniyor (PR #13.109)
